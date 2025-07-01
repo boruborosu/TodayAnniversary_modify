@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "TodayAnniversary.java/json-20250107.jar"
+        "TodayAnniversary.java/json-20250107.jar",
+        "TodayAnniversary.java/.vscode/json-20250107.jar"
     ]
 }
